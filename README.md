@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Thomas Barker! 👋
+I'm a **Python Developer** and **Computer Science Student** passionate about:
+- ⚡ Automation
+- 📊 Data Visualization
+- 🌐 Web Scraping  
 
-<!--
-**TJRB1/TJRB1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Current Projects
+- Building Python tools to solve real-world problems.  
+- Exploring libraries like Pandas, Matplotlib, and BeautifulSoup.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch
+- Email: [tjrbarker1@gmail.com](mailto:tjrbarker1@gmail.com)
